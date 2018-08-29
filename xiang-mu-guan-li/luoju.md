@@ -6,6 +6,8 @@
 
 ![](../.gitbook/assets/image%20%2868%29.png)
 
+![](../.gitbook/assets/wei-xin-tu-pian-20180829112647.png)
+
 1．  带“\*”标志为必填字段，无此标志为选填字段；
 
 2．  所有下拉选择框默认选择第一项；
