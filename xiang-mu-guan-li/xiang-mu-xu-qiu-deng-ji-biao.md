@@ -78,7 +78,6 @@
 
                                                              图2-2 项目工程师节点界面
 
-![](file:///C:\Users\GONGL1~1\AppData\Local\Temp\msohtmlclip1\01\clip_image018.jpg)
 
 ![](../.gitbook/assets/image%20%2830%29.png)
 
