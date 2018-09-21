@@ -120,9 +120,5 @@
 
 ![](../.gitbook/assets/image%20%2889%29.png)
 
-![](file:///C:\Users\GONGL1~1\AppData\Local\Temp\msohtmlclip1\01\clip_image008.jpg)
-
-![](file:///C:\Users\GONGL1~1\AppData\Local\Temp\msohtmlclip1\01\clip_image010.jpg)
-
 
 
