@@ -4,7 +4,7 @@
 
 #### 一、       添加-新合同
 
-![](../.gitbook/assets/image%20%2852%29.png)
+![](../.gitbook/assets/image%20%2853%29.png)
 
 1．  带“\*”标志为必填字段，无此标志为选填字段；
 
@@ -34,7 +34,7 @@
 
 #### 三、       修改
 
-![](../.gitbook/assets/image%20%2853%29.png)
+![](../.gitbook/assets/image%20%2854%29.png)
 
 1．  只有自己创建的合同才能修改；
 
@@ -52,7 +52,7 @@
 
 #### 五、       查询
 
-![](../.gitbook/assets/image%20%2845%29.png)
+![](../.gitbook/assets/image%20%2846%29.png)
 
 1．  创建人工号/姓名为精准匹配（必须输入完整的工号或者姓名）；
 
