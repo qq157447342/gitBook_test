@@ -26,13 +26,13 @@
 
 点击提交按钮：保存数据后会创建一个审批流，审批流产生后，不能再修改数据，如图所示。
 
-![](../.gitbook/assets/image%20%2887%29.png)
+![](../.gitbook/assets/image%20%2889%29.png)
 
 ### 1.3   修改
 
 1） 只有未产生审批流或已作废的单据可以修改，存在审批流的单据不支持修改（处理中和已完结），如图所示。
 
-![](../.gitbook/assets/image%20%2877%29.png)
+![](../.gitbook/assets/image%20%2879%29.png)
 
 2）只有研发经理审批过的单据才能被合同档案或项目进度计划引用。
 
@@ -48,7 +48,7 @@
 
 3）若想删除有审批流的单据，需先作废审批流（只有制单人或业务员才有权限作废审批流，已完结的单据审批流不能再作废）如图所示。
 
-![](../.gitbook/assets/image%20%2841%29.png)
+![](../.gitbook/assets/image%20%2842%29.png)
 
 ### 1.5   查询
 
@@ -70,29 +70,29 @@
 
 ![](../.gitbook/assets/image%20%283%29.png)
 
-![](../.gitbook/assets/image%20%2847%29.png)
+![](../.gitbook/assets/image%20%2848%29.png)
 
 3）  研发总监节点：研发总监有拒绝权限，若选拒绝，则需备注拒绝理由，流程直接结束，若选同意，则需指派研发经理，后流转到研发经理节点。
 
 ![](../.gitbook/assets/image%20%281%29.png)
 
-![](../.gitbook/assets/image%20%2880%29.png)
+![](../.gitbook/assets/image%20%2882%29.png)
 
 4）  研发经理节点：研发经理需指派研发工程师，可同时指派多个，范围（只能选择该研发总监管理的部门成员），后流转到指定的研发工程师处，如图所示。
 
-![](../.gitbook/assets/image%20%2840%29.png)
+![](../.gitbook/assets/image%20%2841%29.png)
 
-![](../.gitbook/assets/image%20%2896%29.png)
+![](../.gitbook/assets/image%20%2898%29.png)
 
 5） 研发工程师确认：当该流程中的所有研发工程师均确认完毕后，流程结束，如图所示。
 
-![](../.gitbook/assets/image%20%2860%29.png)
+![](../.gitbook/assets/image%20%2861%29.png)
 
 ### 2.2 流程信息查看
 
 可以查看某个审批流的所有流转信息，如图所示。
 
-![](../.gitbook/assets/image%20%2845%29.png)
+![](../.gitbook/assets/image%20%2846%29.png)
 
 ### 2.2   项目成员
 
@@ -100,7 +100,7 @@
 
 2） 添加、删除、插入。点击删除将会删除选中的数据，点击插入如有选中的成员，则会在该选中的成员前插入一行数据，若没有，则在最后追加一行。
 
-![](../.gitbook/assets/image%20%2870%29.png)
+![](../.gitbook/assets/image%20%2871%29.png)
 
 
 
@@ -108,19 +108,19 @@
 
 只有在项目管理成员角色中的人员才可以上传，上传后，即可点击通知邮件发送给相关人员，点击邮件通知后，可以选择发送或全部发送或发送未发送成员。如图所示。
 
-![](../.gitbook/assets/image%20%2882%29.png)
+![](../.gitbook/assets/image%20%2884%29.png)
 
-![](../.gitbook/assets/image%20%2885%29.png)
+![](../.gitbook/assets/image%20%2887%29.png)
 
 ### 2.4  方案文件
 
 只有被项目计划关联且研发经理同意后的文件才能被看到。
 
+![](../.gitbook/assets/image%20%2893%29.png)
+
+![](../.gitbook/assets/image%20%2850%29.png)
+
 ![](../.gitbook/assets/image%20%2891%29.png)
-
-![](../.gitbook/assets/image%20%2849%29.png)
-
-![](../.gitbook/assets/image%20%2889%29.png)
 
 
 

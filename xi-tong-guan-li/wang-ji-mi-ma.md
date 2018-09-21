@@ -8,9 +8,9 @@
 
 ![](../.gitbook/assets/image%20%2812%29.png)
 
-![](../.gitbook/assets/image%20%2835%29.png)
+![](../.gitbook/assets/image%20%2836%29.png)
 
 3.  收到验证邮件后，复制邮件中的验证码填入，再设置新密码，设置完成后点击确定即可。
 
-![](../.gitbook/assets/image%20%2851%29.png)
+![](../.gitbook/assets/image%20%2852%29.png)
 
