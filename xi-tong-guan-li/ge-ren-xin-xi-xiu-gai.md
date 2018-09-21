@@ -2,7 +2,7 @@
 
 登录OA系统，进入主界面，点击设置。
 
-![](../.gitbook/assets/image%20%2823%29.png)
+![](../.gitbook/assets/image%20%2824%29.png)
 
 进入个人信息设置，包括头像，基本信息，密码的设置。
 
@@ -10,23 +10,23 @@
 
 点击头像，进入头像设置界面，然后点击选择图片，图片上传完成后，点击应用或保存均可，退出重新登录即可看到修改后的信息。
 
-![](../.gitbook/assets/image%20%2864%29.png)
+![](../.gitbook/assets/image%20%2867%29.png)
 
-![](../.gitbook/assets/image%20%2887%29.png)
+![](../.gitbook/assets/image%20%2890%29.png)
 
-![](../.gitbook/assets/image%20%2855%29.png)
+![](../.gitbook/assets/image%20%2858%29.png)
 
-![](../.gitbook/assets/image%20%2835%29.png)
+![](../.gitbook/assets/image%20%2836%29.png)
 
 ## 设置基本信息
 
 点击基本信息，进入基本信息设置界面。其中用户编号，邮箱不能修改，其它均可修改，红色星号（\*）表示必填，修改完成后点击应用或完成均可，退出重新登录即可看到修改后的信息。
 
-![](../.gitbook/assets/image%20%2828%29.png)
+![](../.gitbook/assets/image%20%2829%29.png)
 
 ## 设置密码
 
 点击密码，进入密码设置界面，先输入原密码，再设置新密码，设置完成后点击保存或应用均可，退出重新登录即可看到修改后的信息。
 
-![](../.gitbook/assets/image%20%2831%29.png)
+![](../.gitbook/assets/image%20%2832%29.png)
 
