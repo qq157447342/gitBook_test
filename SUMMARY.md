@@ -8,6 +8,6 @@
   * [2.1 项目需求登记表](xiang-mu-guan-li/xiang-mu-xu-qiu-deng-ji-biao.md)
   * [2.2 合同联络函](xiang-mu-guan-li/he-tong-lian-luo-han.md)
   * [2.3 项目合同档案](xiang-mu-guan-li/luoju.md)
-  * [2.4 项目进度计划1](xiang-mu-guan-li/er-xiang-mu-zhi-hang-qing-kuang.md)
+  * [2.4 项目进度计划](xiang-mu-guan-li/er-xiang-mu-zhi-hang-qing-kuang.md)
   * [2.5 项目执行情况](xiang-mu-guan-li/untitled.md)
 
