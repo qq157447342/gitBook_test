@@ -4,7 +4,7 @@
 
 #### 一、       添加-新项目合同
 
-![](../.gitbook/assets/image%20%2868%29.png)
+![](../.gitbook/assets/image%20%2890%29.png)
 
 ![](../.gitbook/assets/wei-xin-tu-pian-20180829112647.png)
 
@@ -34,7 +34,7 @@
 
 #### 二、       添加-关联项目需求登记表
 
-![](../.gitbook/assets/image%20%2812%29.png)
+![](../.gitbook/assets/image%20%2817%29.png)
 
 1．  点击关联项目需求登记表，登录者只能看到自己创建的或有审批权的项目需求登记表；
 
@@ -46,7 +46,7 @@
 
 #### 三、       修改
 
-![](../.gitbook/assets/image%20%2839%29.png)
+![](../.gitbook/assets/image%20%2850%29.png)
 
 1．  只有自己创建的项目合同档案才能修改；
 
@@ -70,7 +70,7 @@
 
 #### 五、       查询
 
-![](../.gitbook/assets/image%20%2821%29.png)
+![](../.gitbook/assets/image%20%2827%29.png)
 
 1．  创建人工号/姓名为精准匹配（必须输入完整的工号或者姓名）；
 
