@@ -26,13 +26,13 @@
 
 点击提交按钮：保存数据后会创建一个审批流，审批流产生后，不能再修改数据，如图所示。
 
-![](../.gitbook/assets/image%20%2891%29.png)
+![](../.gitbook/assets/image%20%28106%29.png)
 
 ### 1.3   修改
 
 1） 只有未产生审批流或已作废的单据可以修改，存在审批流的单据不支持修改（处理中和已完结），如图所示。
 
-![](../.gitbook/assets/image%20%2881%29.png)
+![](../.gitbook/assets/image%20%2896%29.png)
 
 2）只有研发经理审批过的单据才能被合同档案或项目进度计划引用。
 
@@ -42,25 +42,25 @@
 
 2）存在审批流或已被合同档案或项目进度计划引用的单据均不能删除，如图所示。
 
-![](../.gitbook/assets/image%20%2815%29.png)
+![](../.gitbook/assets/image%20%2816%29.png)
 
-![](../.gitbook/assets/image%20%2811%29.png)
+![](../.gitbook/assets/image%20%2812%29.png)
 
 3）若想删除有审批流的单据，需先作废审批流（只有制单人或业务员才有权限作废审批流，已完结的单据审批流不能再作废）如图所示。
 
-![](../.gitbook/assets/image%20%2843%29.png)
+![](../.gitbook/assets/image%20%2851%29.png)
 
 ### 1.5   查询
 
 可根据项目号，客户名称，项目状态，潜在竞争对手，是否终端客户，区域，业务员（工号和姓名均可）进行查询，如图所示。
 
-![](../.gitbook/assets/image%20%2823%29.png)
+![](../.gitbook/assets/image%20%2828%29.png)
 
 ## 2. 流程
 
 ### 2.1  审批流
 
-![](../.gitbook/assets/image%20%286%29.png)
+![](../.gitbook/assets/image%20%287%29.png)
 
 
 
@@ -68,31 +68,31 @@
 
 2） 项目经理节点：项目经理评估后选拒绝或同意，若选拒绝，需备注拒绝理由，流程直接结束，若选同意，则需指派项目工程师及选择研发总监，项目工程师节点自动审批通过，流程直接流转到研发总监节点。如图所示。
 
-![](../.gitbook/assets/image%20%283%29.png)
+![](../.gitbook/assets/image%20%284%29.png)
 
-![](../.gitbook/assets/image%20%2849%29.png)
+![](../.gitbook/assets/image%20%2858%29.png)
 
 3）  研发总监节点：研发总监有拒绝权限，若选拒绝，则需备注拒绝理由，流程直接结束，若选同意，则需指派研发经理，后流转到研发经理节点。
 
-![](../.gitbook/assets/image%20%281%29.png)
+![](../.gitbook/assets/image%20%282%29.png)
 
-![](../.gitbook/assets/image%20%2884%29.png)
+![](../.gitbook/assets/image%20%2899%29.png)
 
 4）  研发经理节点：研发经理需指派研发工程师，可同时指派多个，范围（只能选择该研发总监管理的部门成员），后流转到指定的研发工程师处，如图所示。
 
-![](../.gitbook/assets/image%20%2842%29.png)
+![](../.gitbook/assets/image%20%2850%29.png)
 
-![](../.gitbook/assets/image%20%28101%29.png)
+![](../.gitbook/assets/image%20%28118%29.png)
 
 5） 研发工程师确认：当该流程中的所有研发工程师均确认完毕后，流程结束，如图所示。
 
-![](../.gitbook/assets/image%20%2863%29.png)
+![](../.gitbook/assets/image%20%2876%29.png)
 
 ### 2.2 流程信息查看
 
 可以查看某个审批流的所有流转信息，如图所示。
 
-![](../.gitbook/assets/image%20%2847%29.png)
+![](../.gitbook/assets/image%20%2856%29.png)
 
 ### 2.2   项目成员
 
@@ -100,7 +100,7 @@
 
 2） 添加、删除、插入。点击删除将会删除选中的数据，点击插入如有选中的成员，则会在该选中的成员前插入一行数据，若没有，则在最后追加一行。
 
-![](../.gitbook/assets/image%20%2873%29.png)
+![](../.gitbook/assets/image%20%2887%29.png)
 
 
 
@@ -108,19 +108,19 @@
 
 只有在项目管理成员角色中的人员才可以上传，上传后，即可点击通知邮件发送给相关人员，点击邮件通知后，可以选择发送或全部发送或发送未发送成员。如图所示。
 
-![](../.gitbook/assets/image%20%2886%29.png)
+![](../.gitbook/assets/image%20%28101%29.png)
 
-![](../.gitbook/assets/image%20%2889%29.png)
+![](../.gitbook/assets/image%20%28104%29.png)
 
 ### 2.4  方案文件
 
 只有被项目计划关联且研发经理同意后的文件才能被看到。
 
-![](../.gitbook/assets/image%20%2895%29.png)
+![](../.gitbook/assets/image%20%28111%29.png)
 
-![](../.gitbook/assets/image%20%2852%29.png)
+![](../.gitbook/assets/image%20%2862%29.png)
 
-![](../.gitbook/assets/image%20%2893%29.png)
+![](../.gitbook/assets/image%20%28108%29.png)
 
 
 
