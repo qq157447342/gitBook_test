@@ -26,7 +26,7 @@
 
 点击提交按钮：保存数据后会创建一个审批流，审批流产生后，不能再修改数据，如图所示。
 
-![](../.gitbook/assets/image%20%2886%29.png)
+![](../.gitbook/assets/image%20%2887%29.png)
 
 ### 1.3   修改
 
@@ -76,13 +76,13 @@
 
 ![](../.gitbook/assets/image%20%281%29.png)
 
-![](../.gitbook/assets/image%20%2879%29.png)
+![](../.gitbook/assets/image%20%2880%29.png)
 
 4）  研发经理节点：研发经理需指派研发工程师，可同时指派多个，范围（只能选择该研发总监管理的部门成员），后流转到指定的研发工程师处，如图所示。
 
 ![](../.gitbook/assets/image%20%2840%29.png)
 
-![](../.gitbook/assets/image%20%2894%29.png)
+![](../.gitbook/assets/image%20%2895%29.png)
 
 5） 研发工程师确认：当该流程中的所有研发工程师均确认完毕后，流程结束，如图所示。
 
@@ -106,19 +106,19 @@
 
 只有在项目管理成员角色中的人员才可以上传，上传后，即可点击通知邮件发送给相关人员，点击邮件通知后，可以选择发送或全部发送或发送未发送成员。如图所示。
 
-![](../.gitbook/assets/image%20%2881%29.png)
+![](../.gitbook/assets/image%20%2882%29.png)
 
-![](../.gitbook/assets/image%20%2884%29.png)
+![](../.gitbook/assets/image%20%2885%29.png)
 
 ### 2.4  方案文件
 
 只有被项目计划关联且研发经理同意后的文件才能被看到。
 
-![](../.gitbook/assets/image%20%2890%29.png)
+![](../.gitbook/assets/image%20%2891%29.png)
 
 ![](../.gitbook/assets/image%20%2849%29.png)
 
-![](../.gitbook/assets/image%20%2888%29.png)
+![](../.gitbook/assets/image%20%2889%29.png)
 
 ![](file:///C:\Users\GONGL1~1\AppData\Local\Temp\msohtmlclip1\01\clip_image008.jpg)
 
